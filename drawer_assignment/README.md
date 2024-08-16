@@ -28,9 +28,12 @@ Feedback & Suggestions
 As a beginner in Flutter UI design, I welcome any feedback or suggestions to improve my skills. Please feel free to reach out or leave comments on the repository!
 
 Contact
-Maryam Fatima 
+Maryam Fatima
+
 maryamfatimanavtcc@gmail.com
+
 https://www.linkedin.com/in/maryamfatima-dev/
+
 Acknowledgments
 Thank you to the Flutter community and various design resources that have supported my learning journey.
 
