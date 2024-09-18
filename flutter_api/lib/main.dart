@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_api/screen/splash_screen.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'Post APi/screen/post_api_simple/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
          )
         )
       ),
-      home:const Splashscreen(),
+      home:const PostHomeScreen(),
     );
   }
 }
