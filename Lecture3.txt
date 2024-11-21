@@ -1,0 +1,5 @@
+
+Stateless Vs Stateful > Hot Reload & Hot Restart
+
+Stateless > Static widgets > cannot change at run time
+StateFul > dynamic widgets > can change at run time 
